@@ -16,4 +16,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `react-scroll`
 
-### `styled-components`
+### `styled-components`(https://styled-components.com/)
