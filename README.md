@@ -1,19 +1,13 @@
-# Getting Started with Create React App
+### [Demo](https://react-responsive-website-demo.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Dependencies
 
-## Available Dependencies
+### [`react`](https://reactjs.org/)
 
-### `react`
+### [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start)
 
-### `react-dom`
+### [`react-icons`](https://react-icons.github.io/react-icons/)
 
-### `react-scripts`
-
-### `react-router-dom`
-
-### `react-icons`
-
-### `react-scroll`
+### [`react-scroll`](https://www.npmjs.com/package/react-scroll)
 
 ### [`styled-components`](https://styled-components.com/)
