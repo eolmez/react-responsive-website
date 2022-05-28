@@ -1,4 +1,4 @@
-### [Demo](https://react-responsive-website-demo.netlify.app/)
+ [Demo](https://react-responsive-website-demo.netlify.app/)
 
 ##  Dependencies
 
